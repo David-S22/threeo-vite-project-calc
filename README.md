@@ -2,7 +2,7 @@
 Programa desenvolvido com React e Visual Studio Code.
 
 
-# Instruções para rodar o programa:
+# Instruções para rodar o programa
 - Colar no terminal o comando: git clone https://github.com/David-S22/threeo-vite-project-calc.git
 
 - Acessar a pasta através da IDE: cd .\threeo-vite-project-calc\
