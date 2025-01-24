@@ -1,0 +1,65 @@
+.LoginButton{
+  border: 1px solid lightgreen;
+}
+
+*{
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  background-color: #FFF;
+  border: solid 1px black;
+  color: black;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h1{
+  color: lightseagreen;
+}
+
+p{
+  color: #4b4a4a;
+}
+
+.TextFieldNumber{
+  padding: 5px;
+}
+
+#Buttons {
+  padding: 30px 0px 0px 0px;
+}
+
+#TextFieldNumberSection{
+  padding: 30px 0px 0px 0px;
+}
+
+#Calculator {
+  padding: 20px;
+  margin: 80px 0px 0px 320px;
+  border: 2px solid lightseagreen;
+  border-radius: 10px;
+  width: 600px;
+}
+
+/*
+button:hover{
+  border: solid 1px lightgreen;
+  color: lightgreen;
+}
+*/
